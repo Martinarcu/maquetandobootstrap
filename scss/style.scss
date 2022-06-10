@@ -1,0 +1,19 @@
+header {
+   background-color: black;
+}
+.item-1:hover{
+    background-color: steelblue;
+    width: 900px;
+}
+
+.item-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redes a{
+    text-decoration: none;
+    display: flex;
+    justify-items: center;
+}
